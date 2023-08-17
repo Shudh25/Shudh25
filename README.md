@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Shudh25
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m Shudhansu Pandey
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to join an opensource community
 - 📫 How to reach me pandey252001@gmail.com
