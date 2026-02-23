@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+, +I'm+Shudhansu;DevOps+Engineer+%7C+Cloud+Infrastructure+%7C+AI+Deployment;Building+Scalable%2C+Reliable%2C+and+Production-Ready+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shudhansu+Pandey;DevOps+Engineer+%7C+Cloud+Infrastructure+%7C+AI+Deployment;Building+Scalable%2C+Reliable%2C+Production-Ready+Systems" />
 </p>
 
 ---
