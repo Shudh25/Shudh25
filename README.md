@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Shudhansu Pandey
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to join an opensource community
-- 📫 How to reach me pandey252001@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+, +I'm+Shudhansu;DevOps+Engineer+%7C+Cloud+Infrastructure+%7C+AI+Deployment;Building+Scalable%2C+Reliable%2C+and+Production-Ready+Systems" />
+</p>
 
-<!---
-Shudh25/Shudh25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+I'm Shudhansu Pandey, a DevOps Engineer focused on designing, automating, and scaling cloud and AI infrastructure.
+
+I specialize in deploying production workloads using AWS, Docker, Kubernetes, Terraform, and Python. My work centers on improving system reliability, automating infrastructure, and building efficient deployment pipelines for backend and AI systems.
+
+I'm passionate about automation, distributed systems, and engineering infrastructure that is resilient, scalable, and production-ready.
+
+---
+
+### 🤝 Connect
+
+- Email: pandey252001@gmail.com
+- Focus: DevOps • Cloud Infrastructure • AI Systems • Automation
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shudh25&color=0e75b6&style=flat-square"/>
+</p>
